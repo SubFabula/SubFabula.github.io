@@ -1,30 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-		<meta charset="UTF-8">
-		<meta name="SubFabula" content="subfabula.github.io"/>
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism.min.css"><!-- Link to Synax -->
-        <link rel="stylesheet" href="styles.css"><!-- Link to CSS file -->
-</head>
-<body>
-    <section>
-        <div class="header">
-            <h1>Welcome to Main-Home Page</h1>
-            <nav>
-                <ul>
-                    <li><a href="https://subfabula.github.io">Main-Home</a></li>
-                    <li><a href="https://subfabula.github.io/SF_W/">TestGround</a></li>
-                    <li><a href="https://subfabula.github.io/sf_Projects/">Projects</a></li>
-                </ul>
-            </nav>
-         </div>
-    </section>
-    <div class="content">
-        <section><!-- Welcome -->
-           <h1>Welcome to my Home site!</h1>
-           <p>In this place, i learn how to code with both HTML and other types of Coding Languages like CSS. For now, there is only the TestGround and the other project im working. Feel free to take a look at them.</p>
-        </section>
-    </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js"></script>
-</body>
-</html>
+# Welcome to Main-Home Page
+
+[Main-Home](https://subfabula.github.io) | [TestGround](https://subfabula.github.io/SF_W/) | [Projects](https://subfabula.github.io/sf_Projects/)
+
+## Welcome
+
+Welcome to my Home site!
+
+In this place, I learn how to code with both HTML and other types of Coding Languages like CSS. For now, there is only the TestGround and the other project I'm working on. Feel free to take a look at them.
