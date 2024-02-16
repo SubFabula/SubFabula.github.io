@@ -25,6 +25,6 @@
            <p>In this place, i learn how to code with both HTML and other types of Coding Languages like CSS. For now, there is only the TestGround and the other project im working. Feel free to take a look at them.</p>
         </section>
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js"></script>
 </body>
 </html>
