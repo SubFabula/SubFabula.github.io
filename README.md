@@ -22,9 +22,7 @@
     <div class="content">
         <section><!-- Welcome -->
            <h1>Welcome to my Home site!</h1>
-           <p>In this place, i learn how to code with both HTML and other types of Coding Languages like CSS.<br>
-            For now, there is only the TestGround and the other project im working.<br>
-             Feel free to take a look at them.</p>
+           <p>In this place, i learn how to code with both HTML and other types of Coding Languages like CSS. For now, there is only the TestGround and the other project im working. Feel free to take a look at them.</p>
         </section>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js"></script>
