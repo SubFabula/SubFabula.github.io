@@ -1,3 +1,6 @@
+<!-- Add the favicon -->
+<link rel="icon" type="image/x-icon" href="Assets\Icon\subfabula.github.io Icon.ico">
+
 # Welcome to Main-Home Page
 
 [Main-Home](https://subfabula.github.io) | [TestGround](https://subfabula.github.io/SF_W/) | [Projects](https://subfabula.github.io/sf_Projects/)
