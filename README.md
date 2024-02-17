@@ -1,4 +1,4 @@
-[comment]: <> (<link rel="icon" type="image/x-icon" href="Assets/Icon/subfabula.github.io Icon.ico">)
+<link rel="icon" type="image/x-icon" href="Assets/Icon/subfabula.github.io Icon.ico">
 
 # Welcome to Main-Home Page
 
