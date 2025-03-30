@@ -1,5 +1,5 @@
 ---
-title: README
+title: README.md
 filename: README.md
 ---
 
