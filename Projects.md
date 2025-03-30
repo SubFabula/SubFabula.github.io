@@ -12,7 +12,7 @@ Welcome to my Projects Page!
 In this place, I make Projects that I'm involved in, whether with a team or independently. While there may not be many projects at the moment, I hope to add more in the future.
 
 ## Projects/Teams
-
+---
 ### ~~[**QR-Plus**](https://subfabula.github.io/QR-Plus/)~~
 <div style="display: flex; align-items: center;">
     <div style="position: relative;">
