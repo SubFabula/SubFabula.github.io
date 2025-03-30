@@ -1,11 +1,6 @@
----
-title: README.md
-filename: README.md
----
-
 # Welcome to Main-Home Page
 
-[Main(Home)](https://subfabula.github.io) | [TestGround](https://subfabula.github.io/SF_W/) | [Projects](Projects.md)
+[Main(Home)](https://subfabula.github.io) | [TestGround](https://subfabula.github.io/SF_W/) | [Projects](Projects)
 
 ## Welcome
 
