@@ -1,6 +1,6 @@
 # Welcome to Main-Home Page
 
-[Main(Home)](https://subfabula.github.io) | [TestGround](https://subfabula.github.io/SF_W/) | [Projects](Projects)
+[Main(Home)](https://subfabula.github.io) | [TestGround](https://subfabula.github.io/SF_W){:target="_blank"} | [Projects](https://subfabula.github.io/Projects)
 
 ## Welcome
 
