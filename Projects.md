@@ -4,7 +4,7 @@ filename: Projects.md
 ---
 
 # Welcome to Projects Page
-[Main(Home)](subfabula.github.io){:target="_blank"} | [TestGround](subfabula.github.io/SF_W){:target="_blank"} | [Projects](Projects){:target="_blank"}
+[Main(Home)](https://subfabula.github.io) | [TestGround](https://subfabula.github.io/SF_W){:target="_blank"} | [Projects](https://subfabula.github.io/Projects)
 
 ## Welcome
 
