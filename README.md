@@ -6,4 +6,4 @@
 
 Welcome to my Website!
 
-The Main Page doesn't have that much look at so if you want to check out somethings just explore the tabs above.
+The Main Page doesn't have that much look at so if you want to check out somethings, just explore the navigation menu above.
