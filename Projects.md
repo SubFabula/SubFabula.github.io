@@ -1,6 +1,5 @@
 ---
 title: Projects
-layout: jekyll-theme-architect
 filename: Projects.md
 ---
 
