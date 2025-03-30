@@ -1,6 +1,5 @@
 ---
 title: README
-layout: jekyll-theme-architect
 filename: README.md
 ---
 
