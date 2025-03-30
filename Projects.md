@@ -1,7 +1,13 @@
+---
+title: Projects
+layout: jekyll-theme-architect
+filename: Projects.md
+---
+
 [Main(Home)](https://subfabula.github.io) | [TestGround](https://subfabula.github.io/SF_W/) | [Projects](https://subfabula.github.io/Projects/)
 
 ## Welcome
-.
+
 Welcome to my Projects Page!
 
 In this place, I make Projects that I'm involved in, whether with a team or independently. While there may not be many projects at the moment, I hope to add more in the future.
